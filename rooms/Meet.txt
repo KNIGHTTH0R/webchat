@@ -1,0 +1,1 @@
+<div class="nick" onclick="mesgTo('c9da55');" style="color:#c9da55;">c9da55</div>  &rarr; <div class="mesg">Hi! </div><br>
