@@ -1,21 +1,21 @@
-Anonymous Chat Script
+# Anonymous Chat Script
 ----------------------
 
-LASTEST WAS MODIFIED FOR THE PURPOSE OF USING THE WEBCHAT IN THE ionic HYBRID APP CHAT (SEE THE OTHER REPOSITORY).
+## LATEST version 1.2 WAS MODIFIED FOR THE PURPOSE OF USING THE WEBCHAT IN THE "ionic HYBRID APP CHAT" (one of my other repository).
 
 -----------------------
-LATEST VERSION: 1.2
+### LATEST VERSION: 1.2
 
 Original Author: Kenrick Beckett
 Modifiers: Akito Iwakura, Klyubin Timofey
 
-*** VERSION 1.2 ***
- - Preparing URL's fixed (more than 3 character in top-level domain's name)
- - Simple antispam has added (if a message goes after the same message, the message becomes blocked)
- - The salt has been updated :3
+### VERSION 1.2 
+ * Preparing URL's fixed (more than 3 character in top-level domain's name)
+ * Simple antispam has added (if a message goes after the same message, the message becomes blocked)
+ * The salt has been updated :3
  
  
-*** VERSION 1.1 ***
- - Added anonymous nickname system
- - Main page was redesigned (original version was too ugly)
- - Increased update time to decrease server load
+### VERSION 1.1
+ * Added anonymous nickname system
+ * Main page was redesigned (original version was too ugly)
+ * Increased update time to decrease server load
